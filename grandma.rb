@@ -1,5 +1,5 @@
 
-def speak_to_grandma(speak)
+def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
       return "I LOVE YOU TOO PUMPKIN!"
     # If you shout, she can hear you (or at least she thinks so)
