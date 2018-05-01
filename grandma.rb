@@ -2,9 +2,8 @@
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
    "I LOVE YOU TOO PUMPKIN!"
-   i = 0
-   while i < 3
-  phrase == phrase.downcase
+
+while (phrase == phrase.downcase) < 3
   		return "HUH?! SPEAK UP, SONNY!"
     end
     elsif phrase == phrase.upcase
